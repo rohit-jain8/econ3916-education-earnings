@@ -65,7 +65,7 @@ One important thing to keep in mind is that these results show an association, n
 | `midterm_analysis.ipynb` | My completed notebook with the analysis, regressions, graphs, and diagnostic tests |
 | `ma_acs_2024_analysis.csv` | The cleaned dataset used for the project |
 | `summary_statistics.csv` | Summary statistics for the sample |
-| `Education_Earnings_Compact_Report.pdf` | My final written report |
+| `Education Earnings Report.pdf` | My final written report |
 | `README.md` | Overview of the project and instructions for running the analysis |
 
 ## How to Run the Notebook
